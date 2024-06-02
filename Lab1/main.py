@@ -175,7 +175,7 @@ print("Graph: {}\n".format(graph))
 show_directed_graph(graph)
 
 # 测试 3
-word1 = 'new'
+word1 = 'to'
 word2 = 'and'
 print(query_bridge_words(graph, word1, word2))
 
